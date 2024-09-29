@@ -6,3 +6,5 @@ src
 webpack/*
 yarn-error.log
 /disttest/
+package-lock.json
+yarn.lock
