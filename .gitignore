@@ -2,9 +2,7 @@ node_modules
 npm-debug.log
 yarn-error.log
 .DS_Store
-/lib
-/lazy
-/demo
+/dist
 /coverage
 /es6
 .idea/
